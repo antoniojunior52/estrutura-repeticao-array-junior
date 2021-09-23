@@ -1,0 +1,16 @@
+C:\projetos\ams\1ano\semestre2\Ativ3\bin\Debug\net5.0\Ativ3.exe
+C:\projetos\ams\1ano\semestre2\Ativ3\bin\Debug\net5.0\Ativ3.deps.json
+C:\projetos\ams\1ano\semestre2\Ativ3\bin\Debug\net5.0\Ativ3.runtimeconfig.json
+C:\projetos\ams\1ano\semestre2\Ativ3\bin\Debug\net5.0\Ativ3.runtimeconfig.dev.json
+C:\projetos\ams\1ano\semestre2\Ativ3\bin\Debug\net5.0\Ativ3.dll
+C:\projetos\ams\1ano\semestre2\Ativ3\bin\Debug\net5.0\ref\Ativ3.dll
+C:\projetos\ams\1ano\semestre2\Ativ3\bin\Debug\net5.0\Ativ3.pdb
+C:\projetos\ams\1ano\semestre2\Ativ3\obj\Debug\net5.0\Ativ3.csproj.AssemblyReference.cache
+C:\projetos\ams\1ano\semestre2\Ativ3\obj\Debug\net5.0\Ativ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\1ano\semestre2\Ativ3\obj\Debug\net5.0\Ativ3.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\semestre2\Ativ3\obj\Debug\net5.0\Ativ3.AssemblyInfo.cs
+C:\projetos\ams\1ano\semestre2\Ativ3\obj\Debug\net5.0\Ativ3.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\semestre2\Ativ3\obj\Debug\net5.0\Ativ3.dll
+C:\projetos\ams\1ano\semestre2\Ativ3\obj\Debug\net5.0\ref\Ativ3.dll
+C:\projetos\ams\1ano\semestre2\Ativ3\obj\Debug\net5.0\Ativ3.pdb
+C:\projetos\ams\1ano\semestre2\Ativ3\obj\Debug\net5.0\Ativ3.genruntimeconfig.cache
